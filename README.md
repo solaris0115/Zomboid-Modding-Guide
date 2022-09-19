@@ -1,4 +1,5 @@
-# Project Zomboid Modding Guide
+# 프로젝트 좀보이드 모드 가이드 ([원문](https://github.com/FWolfe/Zomboid-Modding-Guide))
+
 **_This document is very much a Work-In-Progress._**
 
 The goal of this guide is to have a one-stop-spot for how to mod TheIndieStone's [Project Zomboid](https://projectzomboid.com), covering all aspects of modding, tools required, tips and tricks, as well as tutorials, examples and useful code snippets.
